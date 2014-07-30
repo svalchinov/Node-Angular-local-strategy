@@ -1,5 +1,6 @@
 ## Simple auth (MEAN + Passport local strategy)
 
+Simple authentication using Node, Angular, Passport's local strategy and MongoDB for store.
 
 
 ### API 
