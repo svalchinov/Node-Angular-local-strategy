@@ -1,0 +1,20 @@
+{
+  "name": "simple-local-strategy",
+  "version": "0.0.0",
+  "description": "Node, Angular, Passport local strategy.",
+  "main": "server.js",
+  "author": "",
+  "dependencies": {
+    "express-session": "^1.5.1",
+    "passport": "^0.2.0",
+    "passport-local": "^1.0.0",
+    "mongoose": "^3.8.8",
+    "morgan": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "connect-mongo": "^0.4.1",
+    "express": "^3.8.1",
+    "mocha": "^1.21.3",
+    "chai": "^1.9.1"
+  }
+}
