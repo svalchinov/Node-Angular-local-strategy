@@ -13,7 +13,10 @@
     "body-parser": "*",
     "method-override": "*",
     "connect-mongo": "^0.4.1",
-    "express": "^3.8.1",
+    "express": "^3.8.1"
+  },
+  "devDependencies": {
+    "cucumber": "*",
     "mocha": "^1.21.3",
     "chai": "^1.9.1"
   }
